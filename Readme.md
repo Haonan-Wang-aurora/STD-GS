@@ -16,7 +16,7 @@ $^*$ Equal Contributions.	$^✉$ Corresponding Author.
 
 ## News
 
-2025.06.26: Our paper is accepted by ICCV 2025. The code will be coming soon.
+2025.06.26: Our paper is accepted by ICCV 2025. The code is coming soon.
 
 
 
